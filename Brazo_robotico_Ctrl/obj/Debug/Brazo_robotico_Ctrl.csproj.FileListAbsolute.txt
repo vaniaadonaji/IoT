@@ -1,0 +1,30 @@
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.exe.config
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.exe
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.pdb
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.AssemblyReference.cache
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Form1.resources
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Properties.Resources.resources
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.GenerateResource.cache
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.exe
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.pdb
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\bin\Debug\Arduino4Net.dll
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\bin\Debug\Arduino4Net.pdb
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.CopyComplete
+C:\Users\bengi\Documents\Proyectos Visual Studio 2022\Brazo_robotico_Ctrl\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Principal.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.exe.config
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.exe
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\bin\Debug\Brazo_robotico_Ctrl.pdb
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\bin\Debug\Arduino4Net.pdb
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.AssemblyReference.cache
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Configuracion.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Form1.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Principal.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Properties.Resources.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.GenerateResource.cache
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.CoreCompileInputs.cache
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.csproj.CopyComplete
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.exe
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.pdb
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.Login.resources
+C:\Users\vania\Documents\IoT\Brazo_robotico_Ctrl\obj\Debug\Brazo_robotico_Ctrl.FormBluetooth.resources

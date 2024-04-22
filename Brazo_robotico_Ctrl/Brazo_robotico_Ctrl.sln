@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brazo_robotico_Ctrl", "Brazo_robotico_Ctrl.csproj", "{53380236-B13B-497D-A0BC-1CE1B47B2A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53380236-B13B-497D-A0BC-1CE1B47B2A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53380236-B13B-497D-A0BC-1CE1B47B2A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53380236-B13B-497D-A0BC-1CE1B47B2A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53380236-B13B-497D-A0BC-1CE1B47B2A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615F6777-1217-4DB9-8BD5-B4CC865760AA}
+	EndGlobalSection
+EndGlobal

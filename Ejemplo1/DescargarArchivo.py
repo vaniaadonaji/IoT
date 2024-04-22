@@ -1,0 +1,1 @@
+open("datos2.txt","tw")
